@@ -8,7 +8,7 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
+  title: "Portfolio Adam",
   description: "Bienvenue sur mon portfolio",
 };
 
@@ -19,6 +19,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
+      <head>
+      <link rel="icon" href="/NavLogo.png" />
+      </head>
       <body
         className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}
       >
