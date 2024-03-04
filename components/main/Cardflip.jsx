@@ -13,9 +13,9 @@ const CardFlip = () => {
     }
   }
   return (
-    <div className="flex items-center justify-center bg-black h-[800px] cursor-pointer relative">
+    <div className="flex items-center justify-center bg-black h-[800px] cursor-pointer relative" id="more">
       <div
-        className="flip-card w-[600px] h-[360px] rounded-md absolute z-[20]"
+        className="flip-card w-[800px] h-[560px] rounded-md absolute z-[20]"
         onClick={handleFlip}
       >
         <motion.div
@@ -27,18 +27,16 @@ const CardFlip = () => {
         >
           <div
             className="flip-card-front w-[100%] h-[100%] bg-cover border-[1px] text-white rounded-lg p-4"
-            style={{ backgroundImage: `url(${"/SpaceCity.jpg"})` }}
+            style={{ backgroundImage: `url(${"/Projet.jpg"})` }}
           >
-            <h1 className="text-2xl font-bold/">Sky</h1>
-            <p>Live on top of the world</p>
           </div>
 
           <div
             className="flip-card-back w-[100%] h-[100%] bg-cover border-[1px] text-white rounded-lg p-4"
             style={{ backgroundImage: `url(${"/SpaceCity1.jpg"})` }}
           >
-            <h1 className="text-2xl font-bold/">Earth</h1>
-            <p>Or in the maze of the city</p>
+            <h1 className="text-2xl font-bold">Site web d&apos;offres de stage</h1>
+            <p className="text-1xl">Or in the maze of the city</p>
           </div>
         </motion.div>
       </div>

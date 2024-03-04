@@ -3,6 +3,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.skills-pro{
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  flex-wrap: nowrap;
+}
 .flip-card {
   perspective: 1000px;
 }
