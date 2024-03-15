@@ -11,7 +11,6 @@ export default function Home() {
         <Hero />
         <Skills />
         <Encryption />
-        <Projects />
         <CardFlip />
       </div>
     </main>

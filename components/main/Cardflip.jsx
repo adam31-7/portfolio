@@ -35,8 +35,6 @@ const CardFlip = () => {
             className="flip-card-back w-[100%] h-[100%] bg-cover border-[1px] text-white rounded-lg p-4"
             style={{ backgroundImage: `url(${"/SpaceCity1.jpg"})` }}
           >
-            <h1 className="text-2xl font-bold">Site web d&apos;offres de stage</h1>
-            <p className="text-1xl">Or in the maze of the city</p>
           </div>
         </motion.div>
       </div>

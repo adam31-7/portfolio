@@ -10,7 +10,7 @@ import { MdOutlineAttachEmail } from "react-icons/md";
 const Footer = () => {
   return (
     <div className="w-full h-full relative z-[20] text-gray-200 shadow-lg p-[15px]">
-        <div className="w-full flex flex-col absolute items-center justify-center m-auto bg-[#0b021114]">
+        <div className="w-full flex flex-col absolute items-center justify-center m-auto bg-[#00000014]">
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[25px]">Mes infos : </div>
                    <p className="flex flex-row items-center my-[10px] cursor-pointer">
