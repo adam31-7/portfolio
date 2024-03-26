@@ -13,7 +13,7 @@ const CardFlip = () => {
     }
   }
   return (
-    <div className="flex items-center justify-center bg-black h-[800px] cursor-pointer relative" id="more">
+    <div  id='projects' className="flex items-center justify-center bg-black h-[800px] cursor-pointer relative" >
       <div
         className="flip-card w-[800px] h-[560px] rounded-md absolute z-[20]"
         onClick={handleFlip}
