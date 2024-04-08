@@ -14,8 +14,8 @@ export const Skill_data = [
     {
       skill_name: "Java Script",
       Image: "/js.png",
-      width: 65,
-      height: 65,
+      width: 50,
+      height: 50,
     },
     {
       skill_name: "Tailwind Css",
@@ -74,8 +74,8 @@ export const Skill_data = [
     {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
-      width: 40,
-      height: 40,
+      width: 80,
+      height: 80,
     },
   
   ];
@@ -113,8 +113,8 @@ export const Skill_data = [
     {
       skill_name: "Java Script",
       Image: "/js.png",
-      width: 65,
-      height: 65,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "Tailwind Css",
@@ -188,32 +188,32 @@ export const Skill_data = [
     {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
-      width: 40,
-      height: 40,
+      width: 50,
+      height: 50,
     },
     {
       skill_name: "My SQL",
       Image: "/mysql.png",
-      width: 70,
-      height: 70,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "C",
       Image: "/c.png",
-      width: 70,
-      height: 70,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "C++",
       Image: "/c++.png",
-      width: 70,
-      height: 70,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "Python",
       Image: "/python.png",
-      width: 70,
-      height: 70,
+      width: 80,
+      height: 80,
     },
   ];
   
@@ -221,8 +221,8 @@ export const Skill_data = [
     {
       skill_name: "React Native",
       Image: "/ReactNative .png",
-      width: 70,
-      height: 70,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "Figma",
@@ -233,8 +233,8 @@ export const Skill_data = [
     {
       skill_name: "Photoshop",
       Image: "/Photoshop.png",
-      width: 50,
-      height: 50,
+      width: 80,
+      height: 80,
     },
   ];
   
