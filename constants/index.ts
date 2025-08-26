@@ -30,25 +30,13 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
-      width: 80,
-      height: 80,
-    },
-    {
       skill_name: "Type Script",
       Image: "/ts.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Next js 13",
+      skill_name: "Next js",
       Image: "/next.png",
       width: 80,
       height: 80,
@@ -56,12 +44,6 @@ export const Skill_data = [
     {
       skill_name: "Framer Motion",
       Image: "/framer.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
       width: 80,
       height: 80,
     },
@@ -123,26 +105,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
-      width: 80,
-      height: 80,
-    },
-    {
       skill_name: "React",
       Image: "/react.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
       width: 80,
       height: 80,
     },
@@ -153,7 +117,7 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Next js 13",
+      skill_name: "Next js",
       Image: "/next.png",
       width: 80,
       height: 80,
@@ -173,6 +137,18 @@ export const Skill_data = [
   ];
   
   export const Backend_skill = [
+    {
+      skill_name: ".NET",
+      Image: "/NET.svg",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "Angular",
+      Image: "/Angular.png",
+      width: 80,
+      height: 80,
+    },
     {
       skill_name: "Node js",
       Image: "/node-js.png",
@@ -210,6 +186,12 @@ export const Skill_data = [
       height: 80,
     },
     {
+      skill_name: "C#",
+      Image: "/C_sharp.svg",
+      width: 80,
+      height: 80,
+    },
+    {
       skill_name: "Python",
       Image: "/python.png",
       width: 80,
@@ -219,8 +201,8 @@ export const Skill_data = [
   
   export const Full_stack = [
     {
-      skill_name: "React Native",
-      Image: "/ReactNative .png",
+      skill_name: "SQL Server Management",
+      Image: "/SQL_SM.png",
       width: 80,
       height: 80,
     },

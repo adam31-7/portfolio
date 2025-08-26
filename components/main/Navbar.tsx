@@ -31,13 +31,13 @@ const Navbar = () => {
               Skills
             </a>
             <a href="#projects" className="cursor-pointer">
-              Projet
+              Project
             </a>
           </div>
         </div>
 
         <div className="flex flex-row font-bold border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200">
-          <a href="/CV Adam LADJAL.pdf" download>Mon CV</a>
+          <a href="/CV Adam LADJAL.pdf" download>My resume</a>
         </div>
       </div>
     </div>
